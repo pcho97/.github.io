@@ -1,0 +1,34 @@
+{% assign restingpapers = site.data.data.restingpapers %}
+{% if restingpapers %}
+<section class="section restingpapers-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-pause-circle fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ restingpapers.title }}
+  </h2>
+
+  {% if restingpapers.intro %}
+  <div class="intro">
+    {{ restingpapers.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in restingpapers.papers %}
+  <div class="item" style="margin-bottom: 20px;">
+  <style> .item li {list-style: none;} </style>
+    {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
+      <li>{{ publication.title }}</li>
+    {% endif %}
+    <div class="publication-authors" style="margin-top: 2px;"><span style="font-style: normal;">{{ publication.authors }}</span></div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+	<div class="publication-presented">{{ publication.presented }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

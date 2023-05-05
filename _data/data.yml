@@ -107,23 +107,26 @@ workingpapers:
     title: Working Papers
     intro: >
     papers:
-      - title: Paying More to Landlords&colon; Housing Vouchers, Housing Markets, and Residential Equilibrium (JMP) (Draft Available on Request)
+      - title: Paying More to Landlords&colon; Housing Vouchers, Housing Markets, and Residential Equilibrium
         link: 
         authors: solo-authored 
         conference: 
         presented: 
+        pdfs: (Draft available upon request)
 
       - title: The Long Road to Equality&colon; Racial Capital and Group Convergence across Generations
         link: 
         authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
         conference: 
         presented:   
+        pdfs:  (Draft coming soon!)
         
       - title: Separate and Unequal&colon; Race and the Geography of the American Housing Market
         link: 
         authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
         conference: 
-        presented:        
+        presented:   
+        pdfs: <a href="/pdfs/bayer_charles_park_separate_and_unequal_2021.pdf" target="_blank">(Paper)</a>
 
 workinprogress: 
     title: Work-in-Progress
@@ -142,6 +145,17 @@ workinprogress:
         presented:     
         
 
+restingpapers: 
+    title: Resting Papers
+    intro: >
+    papers:
+      - title: The Effect of State Income Tax Differentials on Geographic Mobility
+        link: 
+        authors: solo-authored
+        conference: 
+        presented: 
+        
+        
 #publications:
 #    title: Publications
 #    intro: |
