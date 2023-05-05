@@ -12,6 +12,12 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+	
+	{% if sidebar.cv %}
+    <li class="cv"><i class="fas fa-id-card"></i>
+      <a href="/pdfs/joonyup_park_cv.pdf">{{ sidebar.cv }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
