@@ -76,33 +76,33 @@ education:
         time: 2016
         details: |
 
-experiences:
-    title: Research Experiences
-    info:
-      - role: Research Assistant to <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a>
-        time: 2020 - present 
-        company: Duke University (Durham, NC)
-        details: |
+#experiences:
+#    title: Research Experiences
+#    info:
+#      - role: Research Assistant to <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a>
+#        time: 2020 - present 
+#        company: Duke University (Durham, NC)
+#        details: |
 
-      - role: Research Assistant to <a href="https://sites.google.com/view/maisywong">Maisy Wong</a>
-        time: 2016 - 2018
-        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
-        details: |
+#      - role: Research Assistant to <a href="https://sites.google.com/view/maisywong">Maisy Wong</a>
+#        time: 2016 - 2018
+#        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
+#        details: |
 
-      - role: Research Assistant to <a href="https://real-faculty.wharton.upenn.edu/harari/">Nina Harari</a> 
-        time: 2017 - 2018
-        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
-        details: |
+#      - role: Research Assistant to <a href="https://real-faculty.wharton.upenn.edu/harari/">Nina Harari</a> 
+#        time: 2017 - 2018
+#        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
+#        details: |
 
-      - role: Research Assistant to <a href="http://toddsinai.com/">Todd Sinai</a> 
-        time: 2016 - 2017
-        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
-        details: |
+#      - role: Research Assistant to <a href="http://toddsinai.com/">Todd Sinai</a> 
+#        time: 2016 - 2017
+#        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
+#        details: |
 
-      - role: Research Assistant to <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a>
-        time: 2014 - 2018
-        company: University of Pennsylvania (Philadelphia, PA) 
-        details: |
+#      - role: Research Assistant to <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a>
+#        time: 2014 - 2018
+#        company: University of Pennsylvania (Philadelphia, PA) 
+#        details: |
 
 workingpapers: 
     title: Working Papers
