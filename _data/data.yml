@@ -150,6 +150,13 @@ restingpapers:
     title: Resting Papers
     intro: >
     papers:
+      - title: Neighborhood Choice under Imperfect Information 
+        link: 
+        authors: solo-authored
+        conference: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
+        presented: 
+        pdfs: 
+    
       - title: The Effect of State Income Tax Differentials on Geographic Mobility
         link: 
         authors: solo-authored
