@@ -61,7 +61,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a fifth-year Ph.D. student in Economics at Duke University. 
+      I am a Ph.D. candidate in Economics at Duke University. I will be on the job market during the 2023-2024 academic year.
       
 education:
     title: Education
@@ -108,31 +108,39 @@ workingpapers:
     title: Working Papers
     intro: >
     papers:
-      - title: Paying More to Landlords&colon; Housing Vouchers, Housing Markets, and Residential Equilibrium
+      - title: Housing Vouchers, Housing Markets, and Residential Equilibrium (<strong>Job Market Paper</strong>)
         link: 
         authors: solo-authored 
         conference: 
-        presented: 
-        pdfs: (Draft available upon request)
+        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023 (scheduled), TAMC 2023 (scheduled), UEA Summer School 2023, UEA North American Meeting 2023 (scheduled), Wharton 
+        awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist 2023
+        pdfs: "&#91;Draft available upon request&#93;"
 
       - title: The Long Road to Equality&colon; Racial Ken and Group Convergence across Generations
         link: 
         authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
         conference: 
-        presented:   
-        pdfs:  (Draft coming soon!)
+        presented: <i>Presentation</i>&colon; AREUEA, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah
+        pdfs:  "&#91;Draft coming soon!&#93;"
         
       - title: Separate and Unequal&colon; Race and the Geography of the American Housing Market
         link: 
         authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
         conference: 
-        presented:   
-        pdfs: <a href="/pdfs/bayer_charles_park_separate_and_unequal_2021.pdf" target="_blank">(Paper)</a>
+        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
+        pdfs: <a href="/pdfs/bayer_charles_park_separate_and_unequal_2021.pdf" target="_blank">&#91;Paper&#93;</a>
 
 workinprogress: 
     title: Work-in-Progress
     intro: >
     papers:
+      - title: Neighborhood Choice under Imperfect Information 
+        link: 
+        authors: solo-authored 
+        conference: 
+        presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
+        pdfs:
+        
       - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
         link: 
         authors: with <a href="https://aziff.github.io/">Anna L. Ziff</a>
@@ -146,6 +154,8 @@ workinprogress:
         presented:     
         
 
+        
+
 restingpapers: 
     title: Resting Papers
     intro: >
@@ -153,8 +163,8 @@ restingpapers:
       - title: Neighborhood Choice under Imperfect Information 
         link: 
         authors: solo-authored
-        conference: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
-        presented: 
+        conference: 
+        presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
         pdfs: 
     
       - title: The Effect of State Income Tax Differentials on Geographic Mobility

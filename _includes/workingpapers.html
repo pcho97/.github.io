@@ -18,16 +18,22 @@
 
   {% for publication in workingpapers.papers %}
   <div class="item" style="margin-bottom: 20px;">
-  <style> .item li {list-style: none;} </style>
+  <style> 
+      .item li {list-style: none;} 
+      .reduced-font {
+           font-size: 0.9em;
+       }
+   </style>
     {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <li style="font-size: 1em; font-weight: bold;"><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
-      <li>{{ publication.title }}</li>
+      <li style="font-size: 1em; font-weight: bold;">{{ publication.title }}</li>
     {% endif %}
     <div class="publication-authors" style="margin-top: 2px;"><span style="font-style: normal;">{{ publication.authors }}</span></div>
+    <div class="publication-pdfs">{{ publication.pdfs }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
-	<div class="publication-presented">{{ publication.presented }}</div>
-	<div class="publication-pdfs">{{ publication.pdfs }}</div>
+    <div class="publication-presented reduced-font" style="margin-top: 10px;">{{ publication.presented }}</div>
+    <div class="publication-awards reduced-font">{{ publication.awards }}</div>
   </div><!--//item-->
   {% endfor %}
 
