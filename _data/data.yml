@@ -131,15 +131,20 @@ workingpapers:
         pdfs: <a href="/pdfs/bayer_charles_park_separate_and_unequal_2021.pdf" target="_blank">&#91;Paper&#93;</a>
 
 workinprogress: 
-    title: Work-in-Progress
+    title: Works-in-Progress
     intro: >
     papers:
-      - title: Neighborhood Choice under Imperfect Information 
+      - title: City's Past, Present, and Future
         link: 
-        authors: solo-authored 
+        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
         conference: 
-        presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
-        pdfs:
+        presented:      
+    
+      - title: Transmission of Rent Shocks through Common Landlords 
+        link: 
+        authors: with <a href="https://joshuacoven.github.io/">Joshua Coven</a>
+        conference: 
+        presented: 
         
       - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
         link: 
@@ -147,11 +152,12 @@ workinprogress:
         conference: 
         presented: 
 
-      - title: City's Past, Present, and Future
+      - title: Neighborhood Choice under Imperfect Information 
         link: 
-        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
+        authors: solo-authored 
         conference: 
-        presented:     
+        presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
+        pdfs:   
         
 
         
