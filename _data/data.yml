@@ -45,18 +45,15 @@ sidebar:
     interests:
       title: Research Interests
       info:
-        - item: Urban Economics
+        - item: Public Economics
           link:
          
-        - item: Housing Market and Real Estate
+        - item: Urban Economics
           link:       
 
-        - item: Racial Inequality
-          link:
-          
         - item: Applied Microeconomics
           link:
-
+          
 
 career-profile:
     title: About Me
@@ -159,6 +156,12 @@ workinprogress:
         presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
         pdfs:   
         
+      - title: The Effect of State Income Tax Differentials on Geographic Mobility
+        link: 
+        authors: solo-authored
+        conference: 
+        presented: 
+        pdfs:      
 
         
 
