@@ -54,6 +54,9 @@ sidebar:
         - item: Applied Microeconomics
           link:
           
+        - item: Real Estate
+          link:          
+          
 
 career-profile:
     title: About Me
@@ -109,7 +112,7 @@ workingpapers:
         link: 
         authors: solo-authored 
         conference: 
-        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023 (scheduled), TAMC 2023 (scheduled), UEA Summer School 2023, UEA North American Meeting 2023 (scheduled), Wharton - Urban and Real Estate
+        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023 (scheduled), TAMC 2023, UEA Summer School 2023, UEA North American Meeting 2023, Wharton - Urban and Real Estate
         awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist 2023
         pdfs: "&#91;Draft available upon request&#93;"
 
@@ -117,7 +120,7 @@ workingpapers:
         link: 
         authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
         conference: 
-        presented: <i>Presentation</i>&colon; AREUEA, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah
+        presented: <i>Presentation</i>&colon; AREUEA, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah, Wharton - Urban and Real Estate
         pdfs:  "&#91;Draft coming soon!&#93;"
         
       - title: Separate and Unequal&colon; Race and the Geography of the American Housing Market
