@@ -1,0 +1,26 @@
+{% assign references = site.data.data.sidebar.references %}
+{% if references %}
+<div class="references-container container-block">
+
+  <h2 class="container-block-title">
+    {{ references.title }}
+  </h2>
+
+  <ul class="list-unstyled references-list">
+    {% for reference in references.info %}
+
+      <li>
+        {% if reference.link %}
+        <strong><a href="{{ reference.link }}" target="_blank">{{ reference.name }}</a></strong>
+        {% else %}
+        <strong>{{ reference.name }}</strong>
+        {% endif %}
+        <br>
+        <span class="reference-affiliation">{{ reference.affiliation }}</span>
+      </li>
+
+    {% endfor %}
+  </ul>
+
+</div><!--//references-->
+{% endif %}

@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: joonyup.park [at] duke.edu
     cv: CV
-    researchstatement: Research Statement
+    #researchstatement: Research Statement
     phone: 
     timezone: 
     citizenship:
@@ -47,7 +47,7 @@ sidebar:
       title: Research Interests
       info:
         - item: Public Economics
-          link:
+          link: 
          
         - item: Urban Economics
           link:       
@@ -57,12 +57,26 @@ sidebar:
           
         - item: Real Estate and Housing
           link:          
+     
+    references:
+      title: References 
+      info: 
+        - name: Patrick Bayer
+          affiliation: Duke University
+          link: https://sites.duke.edu/patrickbayer/
           
+        - name: Christopher Timmins
+          affiliation: University of Wisconsin Madison - Wisconsin School of Business
+          link: https://www.christophertimmins.com/
+          
+        - name: Maisy Wong
+          affiliation: University of Pennsylvania - Wharton School of Business 
+          link: https://sites.google.com/view/maisywong
 
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. candidate in Economics at Duke University. I will be on the job market during the 2023-2024 academic year.
+      I am a Ph.D. candidate in Economics at Duke University. I will be on the job market during the 2023-2024 academic year and will be available for interviews.
       
 education:
     title: Education
