@@ -58,20 +58,20 @@ sidebar:
         - item: Real Estate and Housing
           link:          
      
-    references:
-      title: References 
-      info: 
-        - name: Patrick Bayer
-          affiliation: Duke University
-          link: https://sites.duke.edu/patrickbayer/
+    #references:
+    #  title: References 
+    #  info: 
+    #    - name: Patrick Bayer
+    #      affiliation: Duke University
+    #      link: https://sites.duke.edu/patrickbayer/
           
-        - name: Christopher Timmins
-          affiliation: University of Wisconsin Madison - Wisconsin School of Business
-          link: https://www.christophertimmins.com/
+    #    - name: Christopher Timmins
+    #      affiliation: University of Wisconsin Madison - Wisconsin School of Business
+    #      link: https://www.christophertimmins.com/
           
-        - name: Maisy Wong
-          affiliation: University of Pennsylvania - Wharton School of Business 
-          link: https://sites.google.com/view/maisywong
+    #    - name: Maisy Wong
+    #      affiliation: University of Pennsylvania - Wharton School of Business 
+    #      link: https://sites.google.com/view/maisywong
 
 career-profile:
     title: About Me
