@@ -1,0 +1,41 @@
+{% assign jobmarketpaper = site.data.data.jobmarketpaper %}
+{% if jobmarketpaper %}
+<section class="section jobmarketpaper-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-gem fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ jobmarketpaper.title }}
+  </h2>
+
+  {% if jobmarketpaper.intro %}
+  <div class="intro">
+    {{ jobmarketpaper.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in jobmarketpaper.papers %}
+  <div class="item" style="margin-bottom: 20px;">
+  <style> 
+      .item li {list-style: none;} 
+      .reduced-font {
+           font-size: 0.9em;
+       }
+   </style>
+    {% if publication.link %}
+      <li style="font-size: 1em; font-weight: bold;"><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
+      <li style="font-size: 1em; font-weight: bold;">{{ publication.title }}</li>
+    {% endif %}
+    <div class="publication-authors" style="margin-top: 2px;"><span style="font-style: normal;">{{ publication.authors }}</span></div>
+    <div class="publication-pdfs">{{ publication.pdfs }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-presented reduced-font" style="margin-top: 10px;">{{ publication.presented }}</div>
+    <div class="publication-awards reduced-font">{{ publication.awards }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

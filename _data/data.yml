@@ -51,9 +51,6 @@ sidebar:
          
         - item: Urban Economics
           link:       
-
-        - item: Applied Microeconomics
-          link:
           
         - item: Real Estate and Housing
           link:          
@@ -119,17 +116,25 @@ education:
 #        company: University of Pennsylvania (Philadelphia, PA) 
 #        details: |
 
-workingpapers: 
-    title: Working Papers
+
+jobmarketpaper: 
+    title: Job Market Paper
     intro: >
     papers:
-      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium (<strong>Job Market Paper</strong>)
+      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium 
         link: 
         authors: solo-authored 
         conference: 
         presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023 (scheduled), TAMC 2023, UEA Summer School 2023, UEA North American Meeting 2023, Wharton - Urban and Real Estate
         awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist 2023
         pdfs: <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
+
+
+
+workingpapers: 
+    title: Working Papers
+    intro: >
+    papers:
 
       - title: The Long Road to Equality&colon; Racial Ken and Group Convergence across Generations
         link: 
@@ -149,11 +154,11 @@ workinprogress:
     title: Works-in-Progress
     intro: >
     papers:
-      - title: City's Past, Present, and Future
-        link: 
-        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
-        conference: 
-        presented:      
+#      - title: City's Past, Present, and Future
+#        link: 
+#        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
+#        conference: 
+#        presented:      
     
       - title: Transmission of Rent Shocks through Common Landlords 
         link: 
@@ -167,19 +172,19 @@ workinprogress:
         conference: 
         presented: 
 
-      - title: Neighborhood Choice under Imperfect Information 
-        link: 
-        authors: solo-authored 
-        conference: 
-        presented: 
-        pdfs:   
+#      - title: Neighborhood Choice under Imperfect Information 
+#        link: 
+#        authors: solo-authored 
+#        conference: 
+#        presented: 
+#        pdfs:   
         
-      - title: The Effect of State Income Tax Differentials on Geographic Mobility
-        link: 
-        authors: solo-authored
-        conference: 
-        presented: 
-        pdfs:      
+#      - title: The Effect of State Income Tax Differentials on Geographic Mobility
+#        link: 
+#        authors: solo-authored
+#        conference: 
+#        presented: 
+#        pdfs:      
 
         
 
