@@ -18,24 +18,47 @@
 
   {% for publication in jobmarketpaper.papers %}
   <div class="item" style="margin-bottom: 20px;">
-  <style> 
+    <style> 
       .item li {list-style: none;} 
       .reduced-font {
            font-size: 0.9em;
        }
-   </style>
+    </style>
     {% if publication.link %}
       <li style="font-size: 1em; font-weight: bold;"><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
       <li style="font-size: 1em; font-weight: bold;">{{ publication.title }}</li>
     {% endif %}
     <div class="publication-authors" style="margin-top: 2px;"><span style="font-style: normal;">{{ publication.authors }}</span></div>
-    <div class="publication-pdfs">{{ publication.pdfs }}</div>
+    
+    <!-- PDF and Abstract Links -->
+    <div class="publication-pdfs">
+      {{ publication.pdfs }} | 
+      <a href="javascript:void(0);" onclick="toggleAbstract('abstractContent{{ forloop.index }}')">[Abstract]</a>
+    </div>
+    
+    <!-- Abstract Content -->
+    <div id="abstractContent{{ forloop.index }}" style="display: none;">
+      <p>{{ publication.abstract }}</p>
+    </div>
+
     <div class="publication-conference">{{ publication.conference }}</div>
     <div class="publication-presented reduced-font" style="margin-top: 10px;">{{ publication.presented }}</div>
     <div class="publication-awards reduced-font">{{ publication.awards }}</div>
-  </div><!--//item-->
+  </div>
   {% endfor %}
 
-</section><!--//section-->
+</section>
+
+<!-- JavaScript for Toggle Function -->
+<script type="text/javascript">
+  function toggleAbstract(abstractId) {
+    var abstractContent = document.getElementById(abstractId);
+    if (abstractContent.style.display === "none") {
+      abstractContent.style.display = "block";
+    } else {
+      abstractContent.style.display = "none";
+    }
+  }
+</script>
 {% endif %}
