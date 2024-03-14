@@ -198,8 +198,14 @@ p {
     margin-bottom: 2px;
     display: flex;
   }
-  .job-title,
-  .degree {
+  .job-title {
+    color: $text-color;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+    flex: 75%;
+  }  .degree {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
