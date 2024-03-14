@@ -125,16 +125,15 @@ education:
 
 
 jobmarketpaper: 
-    title: Job Market Paper
+    title: Research
     intro: >
     papers:
-      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium 
+      - title: Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)
         link: 
-        authors: solo-authored 
-        pdfs: <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "This paper examines the effects of improving low-income households' access to high-rent, high-opportunity neighborhoods on the residential equilibrium. Amidst pervasive residential segregation, I study the Small Area Fair Market Rents, a re-design of the rental voucher program that increased subsidies in high-rent neighborhoods and allowed voucher families to relocate there. I find that it led to a more polarized rental market: rents rose in high-rent areas but declined in low-rent areas. In contrast, it fostered a more egalitarian equilibrium in terms of income and racial composition. While high-income non-voucher households experienced a modicum of welfare loss due to increased living costs, low-income counterparts benefited from reduced rents in low-rent neighborhoods. However, I find that the institution of the voucher program itself led to a substantial welfare loss for low-income households, the very population this program aims to assist. This research illustrates the broader implications of housing vouchers, underscoring the need to balance affordable housing, societal integration, and overall welfare. "
-        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023, TAMC 2023, UEA Summer School 2023, UEA North American Meeting 2023, Wharton - Urban and Real Estate
-        awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
+        authors:  
+        pdfs: <a href="https://drive.google.com/file/d/1TkRd-pgGP6bGkykDtg6qx1XK5lmlh8cc/view" target="_blank">&#91;Paper&#93;</a>
+        abstract: "This study revisits Hsieh and Moretti's (2019) research, extending the original 1964-2009 timeframe to 1964-2019. Using kernel density estimation for land use regulations, housing costs, and employment, we observe improvements in spatial labor misallocation from 2009 to 2019. Also, our study critically reviews the counterfactual estimation procedure of Hsieh and Moretti (2019) and proposes a potential enhancement: iterating the estimation until the indirect utility level equalizes across all locations. Using this new algorithm, we find a significant overstatement in the original estimation of aggregate output growth over 1964-2009 if housing costs were fixed at the 1964 level. Lastly, holding housing costs at the 2009 level, our counterfactual results indicate a 13.9 percentage point smaller output growth for the 1964-2019 period, confirming that spatial misallocation has indeed improved in the recent years"
+        #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
 
 workingpapers: 
