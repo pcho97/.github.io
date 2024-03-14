@@ -45,12 +45,12 @@ sidebar:
     interests:
       title: Skills 
       info: 
-        - name: Python
-        - name: Stata
-        - name: Excel
-        - name: SQL
-        - name: Tableau
-        - name: LaTeX
+        - item: Python
+        - item: Stata
+        - item: Excel
+        - item: SQL
+        - item: Tableau
+        - item: LaTeX
   
     # references:
     #   title: References 
