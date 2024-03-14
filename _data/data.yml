@@ -93,46 +93,7 @@ education:
 
       - degree: B.A. in Economics
         university: University of Wisconsin - Madison
-        time: May 2021
-
-jobmarketpaper: 
-    title: Researches
-    intro: >
-    papers:
-      - title: "Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)"
-        link: 
-        authors:
-        pdfs: <a href="/pdfs/Reassessing Spatial Labor Misallocation.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "This study revisits Hsieh and Moretti's (2019) research, extending the original 1964-2009 timeframe to 1964-2019. Using kernel density estimation for land use regulations, housing costs, and employment, we observe improvements in spatial labor misallocation from 2009 to 2019. Also, our study critically reviews the counterfactual estimation procedure of Hsieh and Moretti (2019) and proposes a potential enhancement: iterating the estimation until the indirect utility level equalizes across all locations. Using this new algorithm, we find a significant overstatement in the original estimation of aggregate output growth over 1964-2009 if housing costs were fixed at the 1964 level. Lastly, holding housing costs at the 2009 level, our counterfactual results indicate a 13.9 percentage point smaller output growth for the 1964-2019 period, confirming that spatial misallocation has indeed improved in the recent years"
-        #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
-
-      - title: "Spatiotemporal Analysis of Ridesharing Services and Crime Patterns in Chicago"
-        link: 
-        authors:  
-        pdfs: <a href="/pdfs/Spatiotemporal Analysis of Ridesharing Services and Crime Patterns.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "Sexual assaults and rapes are the costliest types of crime above all other types of crime. Sexual crime leaves intangible costs to society and victims. This paper studies the impact of ridesharing services on the number of sexual crimes in Chicago. By using hourly-community area level ridesharing service pickups and crime data spanning from January 1st to December 31st of 2019, this paper shows that the increase in the ridesharing service is positively correlated with the number of sexual crimes and that the size of the increase in sexual crime varies in different areas of the city and time. The findings of the research can contribute to the policy implication in the ridesharing service industry."
-        #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
-
-workingpapers: 
-    title: Projects
-    intro: >
-    papers:
-
-      - title: "Examining Midlife Mortality: A Cause of Death Analysis in the U.S."
-        link: 
-        authors: with <a href="https://aging.wisc.edu/staff/do-jonghwa/">Jonghwa Do</a> and <a href="">Hansol Woo</a>
-        conference: 
-        #presented: <i>Presentation</i>&colon; AREUEA, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah, Vanderbilt, Wharton - Urban and Real Estate
-        pdfs:  <a href="/pdfs/Cause of Death Analysis.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "In the late 20th century, the U.S. saw declining mortality rates for midlife and older adults, but from 1999 to 2013, a troubling trend emerged. Middle-aged non-Hispanic whites experienced a notable increase in all-cause mortality due to suicides, drug addiction, and alcoholism. This phenomenon, known as ”deaths of despair,” disproportionately affected those with lower socioeconomic status and extended to uneducated whites, as highlighted by Case and Deaton’s (2021) research. Our project explores how causes of death change over time and across demographic groups among midlife citizens and examines the extent of ”deaths of despair.” Our findings align with previous research, showing that cancer and heart disease remained the top two causes of death, but their overall proportion decreased over time due to the emergence of other diseases. Additionally, our research indicates that suicide, drug, and alcohol-induced causes of death are closely linked to the low-education group and non-white populations."
-        
-      - title: "San Francisco Bay Area Unemployment Rate 1 Year Forecast"
-        link: 
-        authors:
-        conference:
-        #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
-        pdfs: <a href="/pdfs/Unemployment Rate Forecast.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "This paper will forecast the next 12 months' unemployment rate in the San Francisco-Oakland-Hayward (San Francisco Bay Area) metropolitan statistical area (MSA) from Octobe 2020 to October 2021 using the data from the Bureau of Labor Statistics (BLS). The initial expectation of the unemployment rate is to decrease in the next 12 months, which is based on the expectation of increased economic activities and economic rebound after the development of vaccination."
+        time: May 2021        
 
 experiences:
    title: Experiences
@@ -166,6 +127,94 @@ experiences:
        details: |
             - Drafted a grant report to the Bill and Melinda Gates Foundation on the analysis of the development aid from the OECD.
             - Organized and promoted the 2017 International Women's Health Student Writing Competition sponsored by the Bill and Melinda Gates Foundation to raise public awareness of women’s health issues in developing countries.
+
+jobmarketpaper: 
+    title: Research Projects
+    intro: >
+    papers:
+      - title: "Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)"
+        link: 
+        authors:
+        pdfs: <a href="/pdfs/Reassessing Spatial Labor Misallocation.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "This study revisits Hsieh and Moretti's (2019) research, extending the original 1964-2009 timeframe to 1964-2019. Using kernel density estimation for land use regulations, housing costs, and employment, we observe improvements in spatial labor misallocation from 2009 to 2019. Also, our study critically reviews the counterfactual estimation procedure of Hsieh and Moretti (2019) and proposes a potential enhancement: iterating the estimation until the indirect utility level equalizes across all locations. Using this new algorithm, we find a significant overstatement in the original estimation of aggregate output growth over 1964-2009 if housing costs were fixed at the 1964 level. Lastly, holding housing costs at the 2009 level, our counterfactual results indicate a 13.9 percentage point smaller output growth for the 1964-2019 period, confirming that spatial misallocation has indeed improved in the recent years"
+        #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
+
+      - title: "Spatiotemporal Analysis of Ridesharing Services and Crime Patterns in Chicago"
+        link: 
+        authors:  
+        pdfs: <a href="/pdfs/Spatiotemporal Analysis of Ridesharing Services and Crime Patterns.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "Sexual assaults and rapes are the costliest types of crime above all other types of crime. Sexual crime leaves intangible costs to society and victims. This paper studies the impact of ridesharing services on the number of sexual crimes in Chicago. By using hourly-community area level ridesharing service pickups and crime data spanning from January 1st to December 31st of 2019, this paper shows that the increase in the ridesharing service is positively correlated with the number of sexual crimes and that the size of the increase in sexual crime varies in different areas of the city and time. The findings of the research can contribute to the policy implication in the ridesharing service industry."
+        #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
+
+      - title: "Examining Midlife Mortality: A Cause of Death Analysis in the U.S."
+        link: 
+        authors: with <a href="https://aging.wisc.edu/staff/do-jonghwa/">Jonghwa Do</a> and <a href="">Hansol Woo</a>
+        #conference: 
+        #presented: <i>Presentation</i>&colon; AREUEA, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah, Vanderbilt, Wharton - Urban and Real Estate
+        pdfs:  <a href="/pdfs/Cause of Death Analysis.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "In the late 20th century, the U.S. saw declining mortality rates for midlife and older adults, but from 1999 to 2013, a troubling trend emerged. Middle-aged non-Hispanic whites experienced a notable increase in all-cause mortality due to suicides, drug addiction, and alcoholism. This phenomenon, known as ”deaths of despair,” disproportionately affected those with lower socioeconomic status and extended to uneducated whites, as highlighted by Case and Deaton’s (2021) research. Our project explores how causes of death change over time and across demographic groups among midlife citizens and examines the extent of ”deaths of despair.” Our findings align with previous research, showing that cancer and heart disease remained the top two causes of death, but their overall proportion decreased over time due to the emergence of other diseases. Additionally, our research indicates that suicide, drug, and alcohol-induced causes of death are closely linked to the low-education group and non-white populations."
+        
+      - title: "San Francisco Bay Area Unemployment Rate 1 Year Forecast"
+        link: 
+        authors:
+        #conference:
+        #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
+        pdfs: <a href="/pdfs/Unemployment Rate Forecast.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "This paper will forecast the next 12 months' unemployment rate in the San Francisco-Oakland-Hayward (San Francisco Bay Area) metropolitan statistical area (MSA) from Octobe 2020 to October 2021 using the data from the Bureau of Labor Statistics (BLS). The initial expectation of the unemployment rate is to decrease in the next 12 months, which is based on the expectation of increased economic activities and economic rebound after the development of vaccination."
+
+# workingpapers: 
+#     title: Projects
+#     intro: >
+#     papers:
+
+#       - title: "Examining Midlife Mortality: A Cause of Death Analysis in the U.S."
+#         link: 
+#         authors: with <a href="https://aging.wisc.edu/staff/do-jonghwa/">Jonghwa Do</a> and <a href="">Hansol Woo</a>
+#         #conference: 
+#         #presented: <i>Presentation</i>&colon; AREUEA, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah, Vanderbilt, Wharton - Urban and Real Estate
+#         pdfs:  <a href="/pdfs/Cause of Death Analysis.pdf" target="_blank">&#91;Paper&#93;</a>
+#         abstract: "In the late 20th century, the U.S. saw declining mortality rates for midlife and older adults, but from 1999 to 2013, a troubling trend emerged. Middle-aged non-Hispanic whites experienced a notable increase in all-cause mortality due to suicides, drug addiction, and alcoholism. This phenomenon, known as ”deaths of despair,” disproportionately affected those with lower socioeconomic status and extended to uneducated whites, as highlighted by Case and Deaton’s (2021) research. Our project explores how causes of death change over time and across demographic groups among midlife citizens and examines the extent of ”deaths of despair.” Our findings align with previous research, showing that cancer and heart disease remained the top two causes of death, but their overall proportion decreased over time due to the emergence of other diseases. Additionally, our research indicates that suicide, drug, and alcohol-induced causes of death are closely linked to the low-education group and non-white populations."
+        
+#       - title: "San Francisco Bay Area Unemployment Rate 1 Year Forecast"
+#         link: 
+#         authors:
+#         #conference:
+#         #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
+#         pdfs: <a href="/pdfs/Unemployment Rate Forecast.pdf" target="_blank">&#91;Paper&#93;</a>
+#         abstract: "This paper will forecast the next 12 months' unemployment rate in the San Francisco-Oakland-Hayward (San Francisco Bay Area) metropolitan statistical area (MSA) from Octobe 2020 to October 2021 using the data from the Bureau of Labor Statistics (BLS). The initial expectation of the unemployment rate is to decrease in the next 12 months, which is based on the expectation of increased economic activities and economic rebound after the development of vaccination."
+
+# experiences:
+#    title: Experiences
+#    info:
+#      - role: Research Assistant at <a href="https://crowe.wisc.edu/">CROWE</a>
+#        time: Jan. 2024 - present 
+#        company: Center for Research on the Wisconsin Economy at the UW-Madison (Madison, WI)
+#        details: |
+#             - Conducted data analyses for Professor Kim Ruhl’s various research projects.
+#             - Assessed the effect of higher education on earnings and examined the heterogeneity across majors, institutions, and years after graduation.
+#             - Constructed the inflow-outflow table of the federal contract obligations to each firm and sector in Midwest states.
+
+#      - role: Research Assistant to <a href="https://sites.google.com/sas.upenn.edu/paolomartellini">Paolo Martellini</a>
+#        time: Jan. 2023 - Aug. 2023
+#        company: University of Wisconsin - Madison (Madison, WI)
+#        details: |
+#             - Assisted Professor Martellini in writing his working paper, Local Labor Markets and Aggregate Productivity.
+#             - Using Python, built a dataset of zoning regulations, property transaction history, and tax records of Chicago and New York.
+#             - Created a choropleth plot for housing price and land use and density regulation map, and presented the works to the professor and his colleagues.
+
+#      - role: Sergeant
+#        time: Oct. 2018 - May 2020
+#        company: Republc of Korea Army (Seoul, Korea)
+#        details: |
+#             - Managed the procurement of contracts with suppliers by monitoring the food warehouse inventory, leading a team of 4 squad members.
+#             - Refined the food demand forecast system to improve the resource allocation efficiency for 64 subsidiary battalions.
+
+#      - role: Research Assistant at <a href="https://cms.ewha.ac.kr/user/indexMain.action?siteId=idhseng">IDHS</a> 
+#        time: May 2017 - Aug. 2017
+#        company: Institute for Development and Human Security at the Ewha University (Seoul, Korea)
+#        details: |
+#             - Drafted a grant report to the Bill and Melinda Gates Foundation on the analysis of the development aid from the OECD.
+#             - Organized and promoted the 2017 International Women's Health Student Writing Competition sponsored by the Bill and Melinda Gates Foundation to raise public awareness of women’s health issues in developing countries.
 
 # workinprogress: 
 #     title: Experience
