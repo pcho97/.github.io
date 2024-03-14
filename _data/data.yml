@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: scho95 [at] wisc.edu
-    cv: CV
+    cv: <a href="<a href=/pdfs/resume.pdf>resume</a>">Resume</a>
     #researchstatement: Research Statement
     phone: 
     timezone: 
