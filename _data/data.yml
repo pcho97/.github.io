@@ -31,7 +31,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
-    #languages:
+    languages:
     #  title: Languages
     #  info:
     #    - idiom: English
@@ -42,23 +42,16 @@ sidebar:
 
     #    - idiom: Spanish
     #      level: Professional
-
-interests:  # This was indented too far in the provided snippet
-  title: Skills
-  info:
-    - item: Python
-      link: 
-    - item: Stata
-      link:       
-    - item: Excel
-      link:      
-    - item: SQL
-      link: 
-    - item: Tableau
-      link:       
-    - item: LaTeX
-      link: 
-      
+    interests:
+      title: Skills 
+      info: 
+        - name: Python
+        - name: Stata
+        - name: Excel
+        - name: SQL
+        - name: Tableau
+        - name: LaTeX
+  
     # references:
     #   title: References 
     #   info: 
