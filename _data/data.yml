@@ -130,7 +130,6 @@ jobmarketpaper:
     papers:
       - title: "Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)"
         link: 
-        time: 2023
         authors:
         pdfs: <a href="/pdfs/Reassessing Spatial Labor Misallocation.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "This study revisits Hsieh and Moretti's (2019) research, extending the original 1964-2009 timeframe to 1964-2019. Using kernel density estimation for land use regulations, housing costs, and employment, we observe improvements in spatial labor misallocation from 2009 to 2019. Also, our study critically reviews the counterfactual estimation procedure of Hsieh and Moretti (2019) and proposes a potential enhancement: iterating the estimation until the indirect utility level equalizes across all locations. Using this new algorithm, we find a significant overstatement in the original estimation of aggregate output growth over 1964-2009 if housing costs were fixed at the 1964 level. Lastly, holding housing costs at the 2009 level, our counterfactual results indicate a 13.9 percentage point smaller output growth for the 1964-2019 period, confirming that spatial misallocation has indeed improved in the recent years"
@@ -138,7 +137,6 @@ jobmarketpaper:
 
       - title: "Spatiotemporal Analysis of Ridesharing Services and Crime Patterns of Chicago"
         link: 
-        time: 2021
         authors:  
         pdfs: <a href="/pdfs/Spatiotemporal Analysis of Ridesharing Services and Crime Patterns.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "Sexual assaults and rapes are the costliest types of crime above all other types of crime. Sexual crime leaves intangible costs to society and victims. This paper studies the impact of ridesharing services on the number of sexual crimes in Chicago. By using hourly-community area level ridesharing service pickups and crime data spanning from January 1st to December 31st of 2019, this paper shows that the increase in the ridesharing service is positively correlated with the number of sexual crimes and that the size of the increase in sexual crime varies in different areas of the city and time. The findings of the research can contribute to the policy implication in the ridesharing service industry."
