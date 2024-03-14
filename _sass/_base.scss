@@ -177,7 +177,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($theme-color, 15%);
+    color: darken($text-color, 15%);
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -199,6 +199,7 @@ p {
     display: flex;
   }
   .job-title {
+    color: $text-color, 15%;
     font-size: 15px;
     margin-top: 0;
     margin-bottom: 0;
@@ -206,6 +207,7 @@ p {
     flex: 75%;
   }
   .degree {
+    color: $text-color, 15%;
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 0;
