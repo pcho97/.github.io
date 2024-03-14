@@ -2,11 +2,11 @@
 
 # Site Settings
 title: Peter Cho
-url: pcho97.github.io/online-cv
+url: cho-peter.com
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-baseurl: cho-peter.com
+baseurl: 
 
 description: Website for Peter Cho
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
