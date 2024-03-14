@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: scho95@wisc.edu
-    cv: <a href="https://drive.google.com/file/d/1iSn6iHBzP1wtAEzUOdI-51vWHNbPDQ7E/view?usp=sharing">Resume</a>
+    cv: <a href="/pdfs/resume.pdf">Resume</a>
     #researchstatement: Research Statement
     phone: 
     timezone: 
@@ -131,7 +131,7 @@ jobmarketpaper:
       - title: "Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)"
         link: 
         authors:  
-        pdfs: <a href="/pdfs/.pdf" target="_blank">&#91;Paper&#93;</a>
+        pdfs: <a href="/pdfs/Reassessing Spatial Labor Misallocation.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "This study revisits Hsieh and Moretti's (2019) research, extending the original 1964-2009 timeframe to 1964-2019. Using kernel density estimation for land use regulations, housing costs, and employment, we observe improvements in spatial labor misallocation from 2009 to 2019. Also, our study critically reviews the counterfactual estimation procedure of Hsieh and Moretti (2019) and proposes a potential enhancement: iterating the estimation until the indirect utility level equalizes across all locations. Using this new algorithm, we find a significant overstatement in the original estimation of aggregate output growth over 1964-2009 if housing costs were fixed at the 1964 level. Lastly, holding housing costs at the 2009 level, our counterfactual results indicate a 13.9 percentage point smaller output growth for the 1964-2019 period, confirming that spatial misallocation has indeed improved in the recent years"
         #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
