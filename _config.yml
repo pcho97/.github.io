@@ -2,7 +2,7 @@ er#Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
 title: Peter Cho
-url: https://pcho97.github.io
+url: https://pcho97.github.io/online-cv
 
 #change it according to your repository name
 # disabling since we are using a custom domain
