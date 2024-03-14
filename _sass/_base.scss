@@ -198,7 +198,9 @@ p {
     margin-bottom: 2px;
     display: flex;
   }
-  .job-title,
+  .job-title {
+	font-weight: bold;
+	}
   .degree {
     color: $text-color;
     font-size: 16px;
