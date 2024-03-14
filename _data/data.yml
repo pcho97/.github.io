@@ -95,35 +95,6 @@ education:
         university: University of Wisconsin - Madison
         time: May 2021
 
-#experiences:
-#    title: Research Experiences
-#    info:
-#      - role: Research Assistant to <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a>
-#        time: 2020 - present 
-#        company: Duke University (Durham, NC)
-#        details: |
-
-#      - role: Research Assistant to <a href="https://sites.google.com/view/maisywong">Maisy Wong</a>
-#        time: 2016 - 2018
-#        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
-#        details: |
-
-#      - role: Research Assistant to <a href="https://real-faculty.wharton.upenn.edu/harari/">Nina Harari</a> 
-#        time: 2017 - 2018
-#        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
-#        details: |
-
-#      - role: Research Assistant to <a href="http://toddsinai.com/">Todd Sinai</a> 
-#        time: 2016 - 2017
-#        company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
-#        details: |
-
-#      - role: Research Assistant to <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a>
-#        time: 2014 - 2018
-#        company: University of Pennsylvania (Philadelphia, PA) 
-#        details: |
-
-
 jobmarketpaper: 
     title: Researches
     intro: >
@@ -196,27 +167,27 @@ experiences:
             - Drafted a grant report to the Bill and Melinda Gates Foundation on the analysis of the development aid from the OECD.
             - Organized and promoted the 2017 International Women's Health Student Writing Competition sponsored by the Bill and Melinda Gates Foundation to raise public awareness of women’s health issues in developing countries.
 
-workinprogress: 
-    title: Experience
-    intro: >
-    papers:
-#      - title: City's Past, Present, and Future
-#        link: 
-#        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
-#        conference: 
-#        presented:      
+# workinprogress: 
+#     title: Experience
+#     intro: >
+#     papers:
+# #      - title: City's Past, Present, and Future
+# #        link: 
+# #        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
+# #        conference: 
+# #        presented:      
     
-      - title: Transmission of Rent Shocks through Common Landlords 
-        link: 
-        authors: with <a href="https://joshuacoven.github.io/">Joshua Coven</a>
-        conference: 
-        presented: 
+#       - title: Transmission of Rent Shocks through Common Landlords 
+#         link: 
+#         authors: with <a href="https://joshuacoven.github.io/">Joshua Coven</a>
+#         conference: 
+#         presented: 
         
-      - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
-        link: 
-        authors: with <a href="https://aziff.github.io/">Anna L. Ziff</a>
-        conference: 
-        presented: 
+#       - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
+#         link: 
+#         authors: with <a href="https://aziff.github.io/">Anna L. Ziff</a>
+#         conference: 
+#         presented: 
 
 #      - title: Neighborhood Choice under Imperfect Information 
 #        link: 
