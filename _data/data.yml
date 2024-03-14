@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: scho95 [at] wisc.edu
-    cv: Resume
+    cv: CV
     #researchstatement: Research Statement
     phone: 
     timezone: 
@@ -90,12 +90,10 @@ education:
       - degree: M.S. in Economics
         university: University of Wisconsin - Madison
         time: (Expected) May 2024
-        details: |
 
       - degree: B.A. in Economics
         university: University of Wisconsin - Madison
         time: May 2021
-        details: |
 
 #experiences:
 #    title: Research Experiences
