@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: JoonYup Park - PhD Candidate in Economics at Duke University
-url: https://joonyup.github.io
+title: Peter Cho
+url: https://cho-peter.com
 
 #change it according to your repository name
 # disabling since we are using a custom domain
