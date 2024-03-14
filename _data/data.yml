@@ -163,8 +163,42 @@ workingpapers:
         pdfs: <a href="/pdfs/Unemployment Rate Forecast.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "This paper will forecast the next 12 months' unemployment rate in the San Francisco-Oakland-Hayward (San Francisco Bay Area) metropolitan statistical area (MSA) from Octobe 2020 to October 2021 using the data from the Bureau of Labor Statistics (BLS). The initial expectation of the unemployment rate is to decrease in the next 12 months, which is based on the expectation of increased economic activities and economic rebound after the development of vaccination."
 
+experiences:
+   title: Experiences
+   info:
+     - role: Research Assistant at <a href="https://crowe.wisc.edu/">Center for Research on Wisconsin Economy</a>
+       time: Jan. 2024 - present 
+       company: University of Wisconsin Madison (Madison, WI)
+       details: |
+            - Conducted data analyses for Professor Kim Ruhl’s various research projects.
+            - Assessed the effect of higher education on earnings and examined the heterogeneity across majors, institutions, and years after graduation.
+            - Constructed the inflow-outflow table of the federal contract obligations to each firm and sector in Midwest states.
+
+     - role: Research Assistant to <a href="https://sites.google.com/view/maisywong">Maisy Wong</a>
+       time: 2016 - 2018
+       company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
+       details: |
+            - Conducted data analyses for Professor Kim Ruhl’s various research projects.
+            - Assessed the effect of higher education on earnings and examined the heterogeneity across majors, institutions, and years after graduation.
+            - Constructed the inflow-outflow table of the federal contract obligations to each firm and sector in Midwest states.
+
+     - role: Research Assistant to <a href="https://real-faculty.wharton.upenn.edu/harari/">Nina Harari</a> 
+       time: 2017 - 2018
+       company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
+       details: |
+
+     - role: Research Assistant to <a href="http://toddsinai.com/">Todd Sinai</a> 
+       time: 2016 - 2017
+       company: Zell/Lurie Real Estate Center at the Wharton School (Philadelphia, PA)
+       details: |
+
+     - role: Research Assistant to <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a>
+       time: 2014 - 2018
+       company: University of Pennsylvania (Philadelphia, PA) 
+       details: |
+
 workinprogress: 
-    title: Works-in-Progress
+    title: Experience
     intro: >
     papers:
 #      - title: City's Past, Present, and Future
@@ -201,23 +235,23 @@ workinprogress:
 
         
 
-restingpapers: 
-    title: Resting Papers
-    intro: >
-    papers:
-      - title: Neighborhood Choice under Imperfect Information 
-        link: 
-        authors: solo-authored
-        conference: 
-        presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
-        pdfs: 
+# restingpapers: 
+#     title: Resting Papers
+#     intro: >
+#     papers:
+#       - title: Neighborhood Choice under Imperfect Information 
+#         link: 
+#         authors: solo-authored
+#         conference: 
+#         presented: <span class="special-char">&ast;</span>Project halted due to data provider's sudden policy change.
+#         pdfs: 
     
-      - title: The Effect of State Income Tax Differentials on Geographic Mobility
-        link: 
-        authors: solo-authored
-        conference: 
-        presented: 
-        pdfs: (Draft available upon request)
+#       - title: The Effect of State Income Tax Differentials on Geographic Mobility
+#         link: 
+#         authors: solo-authored
+#         conference: 
+#         presented: 
+#         pdfs: (Draft available upon request)
         
         
 #publications:
