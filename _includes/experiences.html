@@ -25,6 +25,7 @@
 
     {% if experience.details %}
     <div class="details">
+      {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
