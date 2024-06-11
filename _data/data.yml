@@ -171,14 +171,13 @@ jobmarketpaper:
         pdfs: <a href="/pdfs/Unemployment Rate Forecast.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "This paper will forecast the next 12 months' unemployment rate in the San Francisco-Oakland-Hayward (San Francisco Bay Area) metropolitan statistical area (MSA) from Octobe 2020 to October 2021 using the data from the Bureau of Labor Statistics (BLS). The initial expectation of the unemployment rate is to decrease in the next 12 months, which is based on the expectation of increased economic activities and economic rebound after the development of vaccination."
         
-      - title: "Map"
+     - title: "Albuquerque Share of Housing Expenditure Map"
         link: 
         authors:
         #conference:
         #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
         pdfs: <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;Map&#93;</a>
-        abstract:  
-
+        abstract: 
 
 # workingpapers: 
 #     title: Projects
