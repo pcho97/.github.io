@@ -141,12 +141,11 @@ jobmarketpaper:
     title: Research Projects
     intro: >
     papers:  
-     - title: "Albuquerque Share of Housing Expenditure Map"
+      - title: "Housing Expenditure Share of Albuquerque"
         link: 
         authors:
-        #conference:
-        #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
-        pdfs: <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;Map&#93;</a>
+        pdfs: <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;map&#93;</a>
+        #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
       - title: "Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)"
         link: 
