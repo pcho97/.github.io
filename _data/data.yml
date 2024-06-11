@@ -176,8 +176,8 @@ jobmarketpaper:
         authors:
         #conference:
         #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
-        pdfs: <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;Paper&#93;</a>
-        abstract:  <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;Paper&#93;</a>
+        pdfs: <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;Map&#93;</a>
+        abstract:  
 
 
 # workingpapers: 
