@@ -141,11 +141,11 @@ jobmarketpaper:
     title: Research Projects
     intro: >
     papers:  
-      - title: "Housing Expenditure Share of Albuquerque"
+      - title: "Housing Expenditure Share of Albuquerque, NM"
         link: 
         authors:
         pdfs: <a href="/pdfs/ABQ_housing_expenditure.html" target="_blank">&#91;Map&#93;</a>
-        abstract: "This interactive map visualizes the housing expenditure share of total household expenditures for each census tract in the Albuquerque MSA. The shares, calculated as the weighted average of mortgage and rent expenditure shares, highlight disparities in housing affordability. Tracts where housing expenditure exceeds the national average of 33.3% are marked in red, while those below this threshold remain uncolored. Tracts with unavailable data are shaded grey. Utilizing data from the 2022 5-Year American Community Survey, this map provides detailed insights into regional housing affordability dynamics."
+        abstract: "This interactive map visualizes the housing expenditure share of each census tract in the Albuquerque Metropolitan Statistical Area (MSA), New Mexico, based on the 2022 5-Year American Community Survey. The share is calculated by averaging household mortgage and rent expenditure shares, highlighting regional housing affordability. Census tracts where housing expenditure exceeds the national average of 33.3% are marked in red, those below this threshold are uncolored, and those with missing data are shaded grey."
         #awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
       - title: "Reassessing Spatial Labor Misallocation: A Decade Beyond Hsieh and Moretti (2019)"
