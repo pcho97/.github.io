@@ -13,7 +13,8 @@ sidebar:
 
     # Sidebar links
     email: scho95@wisc.edu
-    cv: <a href="/pdfs/resume.pdf">resume</a>
+    cv: <a href="/pdfs/resume.pdf">resume_kr</a>
+    cv: <a href="/pdfs/resume.pdf">resume_en</a>
     #researchstatement: Research Statement
     phone: 
     timezone: 
@@ -82,7 +83,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Masters candidate in Economics at University of Wisconsin - Madison. I am passionate about urban economics and regional planning. 
+      I am a recent Masters graduate in Economics at University of Wisconsin - Madison. I am passionate about real estate and urban economics. 
       
 education:
     title: Education
